@@ -1,11 +1,11 @@
 // Advent2024.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 #include "StdAfx.h"
-#include "Day01.h"
+#include "Day02.h"
 
 int main()
 {
-    auto result = Day01::Problem02();
+    auto result = Day02::Problem01();
     std::cout << result << std::endl;
     return 0;
 }
